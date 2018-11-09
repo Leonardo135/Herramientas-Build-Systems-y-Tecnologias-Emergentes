@@ -1,0 +1,17 @@
+﻿GitHub: https://github.com/rucko18/NextU-Proyecto08-HerramientasBuildSystemsYTecnologiasEmergentes
+
+Angular-Cli v1.0.0-beta.28.3
+---> npm install //para instalar los paquetes
+---> ng serve // para correr el proyecto
+
+De no funcionar instalar:
+	node v 7.1.0
+	npm v 3.10.9  
+
+REACTJS
+---> npm install //para instalar los paquetes
+---> npm start // para correr el proyecto
+
+email: rucko98@icloud.com
+
+contraseña: 12345
